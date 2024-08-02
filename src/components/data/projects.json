@@ -1,0 +1,42 @@
+[
+  {
+    "key": 1,
+    "title": "Bihar-Sair",
+    "imageSrc": "https://magenta-lily-02d886.netlify.app/tour-images/Giant%20Buddha.jpg",
+    "description": "This is a Full Stack project.",
+    "deployed link": "https://magenta-lily-02d886.netlify.app/home",
+    "source": "https://github.com/abhiraj100/Bihar-sair"
+  },
+  {
+    "key": 2,
+    "title": "Book-Store",
+    "imageSrc": "https://images.pexels.com/photos/1106468/pexels-photo-1106468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "This is a Full Stack project.",
+    "deployed link": "https://github.com/abhiraj100/Book-Store",
+    "source": "https://github.com/abhiraj100/Book-Store"
+  },
+  {
+    "key": 3,
+    "title": "Snap-Stock",
+    "imageSrc": "https://images.pexels.com/photos/3225517/pexels-photo-3225517.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "description": "This is a ReactJS project.",
+    "deployed link": "https://snap-stock-ten.vercel.app/",
+    "source": "https://github.com/abhiraj100/Snap-Stock"
+  },
+  {
+    "key": 4,
+    "title": "TO-DO-LIST-APP",
+    "imageSrc": "https://images.pexels.com/photos/1226398/pexels-photo-1226398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "This is a project made with complete React js.",
+    "deployed link": "https://todo-list-app-ivory-phi.vercel.app/",
+    "source": "https://github.com/abhiraj100/REACT-PROJECTS/tree/main/TODO%20LIST%20APP"
+  },
+  {
+    "key": 5,
+    "title": "Authentication-Login",
+    "imageSrc": "https://images.pexels.com/photos/174938/pexels-photo-174938.jpeg",
+    "description": "This is a project made with complete React js.",
+    "deployed link": "https://deploy-auth-mern-app-ui-two.vercel.app/login",
+    "source": "https://github.com/abhiraj100/deploy-auth-mern-app"
+  }
+]
